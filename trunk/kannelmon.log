@@ -1,0 +1,40 @@
+2008-06-24 16:39:35,692 9200 INFO started
+2008-06-24 16:39:51,074 9200 INFO stopped
+2008-06-24 16:40:23,378 9276 INFO started
+2008-06-24 16:41:10,212 9276 INFO stopped
+2008-06-24 16:42:43,961 9451 INFO started
+2008-06-24 16:44:51,223 9451 INFO stopped
+2008-06-24 16:44:52,763 9638 INFO started
+2008-06-24 16:44:52,767 9638 INFO ERROR_COULD_NOT_CONNECT
+2008-06-24 16:45:12,764 9638 INFO ERROR_COULD_NOT_CONNECT
+2008-06-24 16:45:19,009 9638 INFO stopped
+2008-06-24 16:46:36,237 9786 INFO started
+2008-06-24 16:46:43,312 9786 INFO stopped
+2008-06-24 16:46:53,236 9827 INFO started
+2008-06-24 16:46:53,240 9827 INFO Could not connect to Kannel status URL.
+2008-06-24 16:47:13,240 9827 INFO Could not connect to Kannel status URL.
+2008-06-24 16:47:30,329 9827 INFO stopped
+2008-06-24 16:47:31,474 9904 INFO started
+2008-06-24 16:47:31,479 9904 INFO Could not connect to Kannel status URL.
+2008-06-24 16:47:51,481 9904 INFO Fetching Kannel status from http://localhost:13000/status.xml
+2008-06-24 16:47:51,481 9904 INFO Kannel status fetched succesfully.
+2008-06-24 16:47:51,483 9904 INFO SMSC Status
+2008-06-24 16:47:51,483 9904 INFO movistar_app: online 14s
+2008-06-24 16:47:51,483 9904 INFO Sending alert notification email...
+2008-06-24 16:47:51,484 9904 INFO movistar: re-connecting
+2008-06-24 16:47:56,644 9904 INFO Alert email notification sent succesfully.
+2008-06-24 16:48:11,481 9904 INFO Fetching Kannel status from http://localhost:13000/status.xml
+2008-06-24 16:48:11,481 9904 INFO Kannel status fetched succesfully.
+2008-06-24 16:48:11,482 9904 INFO SMSC Status
+2008-06-24 16:48:11,483 9904 INFO movistar_app: online 34s
+2008-06-24 16:48:11,483 9904 INFO Sending alert notification email...
+2008-06-24 16:48:11,483 9904 INFO movistar: re-connecting
+2008-06-24 16:48:17,199 9904 INFO Alert email notification sent succesfully.
+2008-06-24 16:48:31,481 9904 INFO Fetching Kannel status from http://localhost:13000/status.xml
+2008-06-24 16:48:31,481 9904 INFO Kannel status fetched succesfully.
+2008-06-24 16:48:31,482 9904 INFO SMSC Status
+2008-06-24 16:48:31,483 9904 INFO movistar_app: online 54s
+2008-06-24 16:48:31,483 9904 INFO Sending alert notification email...
+2008-06-24 16:48:31,484 9904 INFO movistar: re-connecting
+2008-06-24 16:48:35,080 9904 INFO Alert email notification sent succesfully.
+2008-06-24 16:48:51,392 9904 INFO stopped
