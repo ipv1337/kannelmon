@@ -1,0 +1,1 @@
+Kannelmon monitors Kannel's SMSC links and notifies you via email about failures.
